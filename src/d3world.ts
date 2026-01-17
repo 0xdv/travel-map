@@ -82,7 +82,9 @@ export function createTravelMap(
   let pathsGroup: d3.Selection<SVGGElement, unknown, null, undefined>;
 
   async function init() {
-    const world = (await d3.json(import.meta.env.BASE_URL + "world-110m.json")) as any;
+    const world = (await d3.json(
+      import.meta.env.BASE_URL + "world-110m.json"
+    )) as any;
     const countries = feature(world, world.objects.countries) as any;
     const features = countries.features as GeoJSON.Feature[];
 
