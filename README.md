@@ -2,6 +2,8 @@
 
 Interactive world map to track your travels. Mark countries as visited or add them to your wishlist.
 
+**[🌐 Live Demo](https://0xdv.github.io/travel-map/)**
+
 ## Features
 
 - 🌍 Interactive world map with zoom support
