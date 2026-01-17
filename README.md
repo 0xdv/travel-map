@@ -1,4 +1,4 @@
-<![CDATA[# 🗺️ Travel Map
+# 🗺️ Travel Map
 
 [![Live Demo](https://img.shields.io/badge/demo-live-brightgreen?style=for-the-badge)](https://0xdv.github.io/travel-map/)
 [![Vue 3](https://img.shields.io/badge/Vue-3.5-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)](https://vuejs.org/)
@@ -7,12 +7,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
 
 > Interactive world map to visualize and track your travel adventures. Mark countries as visited or add them to your bucket list.
-
-<p align="center">
-  <a href="https://0xdv.github.io/travel-map/">
-    <img src="https://raw.githubusercontent.com/0xdv/travel-map/main/public/preview.png" alt="Travel Map Preview" width="800">
-  </a>
-</p>
 
 ## ✨ Features
 
@@ -78,4 +72,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 <p align="center">
   Made with ❤️ by <a href="https://github.com/0xdv">@0xdv</a>
 </p>
-]]>
